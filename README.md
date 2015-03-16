@@ -1,4 +1,4 @@
-# illustratorArtboardPdfCompiler
+# Adobe Illustrator Artboard Pdf Compiler
 This Script, Compile Adobe Illustrator Artboard to PDF.
 
 ## What do this used for?
